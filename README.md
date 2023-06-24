@@ -23,7 +23,6 @@ Give a ⭐️ if this project helped you!
 
 ## Stargazers
 ![Stargazers repo roster for @ishanoshada/Formula_python](https://reporoster.com/stars/dark/ishanoshada/Formula_python)](https://github.com/ishanoshada/Formula_python/stargazers)
-[![Forkers repo roster for @ishanoshada/Formula_python(https://reporoster.com/forks/dark/ishanoshada/Formula_python)](https://github.com/ishanoshada/Formula_python/network/members)
 
 ## 📝 License
 
