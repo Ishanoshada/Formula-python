@@ -15,7 +15,7 @@ usage: python app.py
 
 👤 **Ishan oshada**
 
-* Github: [@Sl-Sanda-Ru](https://github.com/ishanoshada)
+* Github: [@ishanoshada](https://github.com/ishanoshada)
 
 ## Show your support
 
