@@ -17,6 +17,9 @@ usage: python app.py
 
 * Github: [@ishanoshada](https://github.com/ishanoshada)
 
+**Repository Views** ![Views](https://profile-counter.glitch.me/Formualpython/count.svg)
+
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
